@@ -48,7 +48,7 @@ header h1 {
   margin: 0;
 }
 
-header h3 {
+header h2 {
   font-size: 3vw;
   color: #ffffff;
   margin: 0;
@@ -227,7 +227,7 @@ input {
     margin: 10px auto 0 auto;
 }
 
-.call p {
+.call h1 {
     color: #ffffff;
     font-size: 1.5em;
     padding: 0;
